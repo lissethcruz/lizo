@@ -32,7 +32,7 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-You can download or create Jekyll plugins to extend the functionality of Jekyll for your site. For example, the jemoji plugin lets you use GitHub-flavored emoji in any page on your site the same way you would on GitHub. For more information, see Plugins in the Jekyll documentation.
+You can download or create Jekyll plugins to extend the functionality of Jekyll for your site. For example, the [jemoji](jemohi.com) plugin lets you use GitHub-flavored emoji in any page on your site the same way you would on GitHub. For more information, see Plugins in the Jekyll documentation.
 
 ## License
 
